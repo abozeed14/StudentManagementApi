@@ -1,7 +1,9 @@
+✨Try it live : [Click here](https://student-management.runasp.net/swagger/index.html)
+
 # Student Management System
 
 A comprehensive API for managing students, classes, enrollments, and marks in an educational institution. This system allows administrators to track student information, class details, student enrollments, and academic performance.
-Click To Try : [Click here](https://student-management.runasp.net/swagger/index.html)
+
 ## Features
 
 ### Student Management
